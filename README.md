@@ -12,6 +12,6 @@
 - Java Swing
 
 ### Herramientas
-- [Netbeans](https://netbeans.apache.org/)
-- [Eclipse](https://www.eclipse.org/)
+- [Netbeans-ide](https://netbeans.apache.org/)
+- [Eclipse-ide](https://www.eclipse.org/)
 - [XAMPP](https://www.apachefriends.org/)
