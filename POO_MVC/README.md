@@ -3,6 +3,7 @@
 #### Controlador 
 - ArrayConsulta
 - Ejecutador
+- ExcepcionesPropias
 - Gestiona
 - OrdenarArray
 #### Modelo
