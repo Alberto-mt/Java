@@ -4,6 +4,7 @@
 - ArrayConsulta
 - Ejecutador
 - ExcepcionesPropias
+- FicheroLegible_CargarArray
 - Gestiona
 - OrdenarArray
 #### Modelo
