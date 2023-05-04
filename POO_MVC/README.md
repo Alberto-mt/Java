@@ -5,6 +5,8 @@
 - Ejecutador
 - ExcepcionesPropias
 - FicheroLegible_CargarArray
+- FicheroLegible_Escribir
+- FicheroLegible_Leer
 - Gestiona
 - OrdenarArray
 #### Modelo
