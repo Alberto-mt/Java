@@ -7,6 +7,7 @@
 - FicheroLegible_CargarArray
 - FicheroLegible_Escribir
 - FicheroLegible_Leer
+- FicheroNOLegible_CargarArray
 - Gestiona
 - OrdenarArray
 #### Modelo
