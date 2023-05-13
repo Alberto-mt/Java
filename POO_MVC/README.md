@@ -2,6 +2,7 @@
 ### Ejemplos por separado de métodos y funciones de POO en un modelo MVC
 #### Controlador 
 - ArrayConsulta
+- BBDD_CargarArray
 - Ejecutador
 - ExcepcionesPropias
 - FicheroLegible_CargarArray
