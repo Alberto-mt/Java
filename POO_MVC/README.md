@@ -3,6 +3,7 @@
 #### Controlador 
 - ArrayConsulta
 - BBDD_CargarArray
+- BBDD_Consultar
 - BBDD_Insertar
 - Ejecutador
 - ExcepcionesPropias
