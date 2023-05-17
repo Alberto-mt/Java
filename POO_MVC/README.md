@@ -5,6 +5,7 @@
 - BBDD_CargarArray
 - BBDD_Consultar
 - BBDD_Insertar
+- BBDD_Modificar
 - Ejecutador
 - ExcepcionesPropias
 - FicheroLegible_CargarArray
