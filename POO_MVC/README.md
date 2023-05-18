@@ -4,6 +4,7 @@
 - ArrayConsulta
 - BBDD_CargarArray
 - BBDD_Consultar
+- BBDD_Eliminar
 - BBDD_Insertar
 - BBDD_Modificar
 - Ejecutador
