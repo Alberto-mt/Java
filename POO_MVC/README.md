@@ -16,6 +16,7 @@
 - FicheroNOLegible_Escribir
 - FicheroNOLegible_Leer
 - Gestiona
+- GestionaGraficos
 - OrdenarArray
 #### Modelo
 - Alumno
