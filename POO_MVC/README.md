@@ -25,4 +25,5 @@
 - Persona
 - Profesor
 #### Vista
+- AreaDatos
 - Mostrar
