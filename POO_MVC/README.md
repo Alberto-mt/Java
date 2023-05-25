@@ -29,3 +29,4 @@
 - ComboDatos
 - ListaDatos
 - Mostrar
+- TablaDatos
