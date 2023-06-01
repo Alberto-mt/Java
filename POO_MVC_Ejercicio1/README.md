@@ -4,7 +4,7 @@
 - Constantes.
 - Cargar array de base de datos.
 - Mostrar array por consola.
-- Cargar cada tipo de array (modelo enumerado)
+- Cargar cada tipo de array (modelo enumerado).
 - Ordenar por nombre cada tipo de array.
 - Escribir cada tipo de objeto en un fichero legible.
 - Leer de cada fichero legible y mostrar por consola.
