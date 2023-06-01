@@ -1,7 +1,7 @@
 ## POO_MVC - Ejercicio 1
 ### Ejercicio de progamación de repaso con POO y MVC
 #### Controlador
-- Constantes.
+- Conexión a base de datos por medio de constantes.
 - Cargar array de base de datos.
 - Mostrar array por consola.
 - Cargar cada tipo de array (modelo enumerado).
