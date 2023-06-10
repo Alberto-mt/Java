@@ -11,6 +11,7 @@
 
 #### Modelo
 - Modelo de tipo enumerado.
+
 #### Vista
 - Mostrar menú.
 - Mostrar despedida.
