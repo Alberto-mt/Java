@@ -71,7 +71,7 @@ public class Gestiona {
 
 		// insertaProfesor();
 		// insertaAlumno();
-		// numeroVeces();
+		numeroVeces();
 
 		cargaProfesores();
 		cargaAlumnos();
