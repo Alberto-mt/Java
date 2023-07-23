@@ -1,5 +1,5 @@
 ## POO_MVC - Ejercicio 1
-### Ejercicio de progamación de repaso con POO y MVC
+### Ejercicio de progamación con POO y MVC
 #### Controlador
 - Conexión a base de datos por medio de constantes.
 - Cargar array de base de datos.
