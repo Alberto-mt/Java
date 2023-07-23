@@ -1,5 +1,5 @@
 ## POO_MVC - Ejercicio 3
-### Ejercicio de progamación de repaso con POO y MVC
+### Ejercicio de progamación con POO y MVC
 #### Controlador
 - Conexión a BBDD desde fichero de propiedades.
 - Introducir datos por consola a BBDD.
